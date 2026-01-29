@@ -59,5 +59,9 @@ The project simulates real-world scenarios faced by Data Analysts and Engineers,
 3. The scripts are designed to run sequentially or as standalone modules.
 
 ---
-### 📬 Contact
-*Created by [Mahmoud Abd Elhadi]* *Data Analyst / SQL Developer*
+### 📬 Contact & Connect
+I am currently open to opportunities as a Data Analyst or SQL Developer. Feel free to reach out!
+
+* 💼 **LinkedIn:** [Mahmoud Abd Elhadi]()
+* 📧 **Email:** [اكتب_ايميلك_هنا](mailto:mahmoudhadi2184@gmail.com)
+* 🐈 **GitHub:** [My Profile](https://github.com/يوزرنيم_بتاعك)
